@@ -1,0 +1,20 @@
+# environments
+venv/
+env
+
+# datasets
+icosimal_img_class_03/
+data/
+
+# pytorch models
+*.pt
+*.pth
+
+# wandb logs
+wandb/
+
+# python cache
+__pycache__/
+
+# jupyter
+.ipynb_checkpoints/
